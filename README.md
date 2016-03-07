@@ -1,1 +1,3 @@
-SI2015Tim5
+Softver Inženjering
+Tim 5 
+Telefonske narudžbe - restoran
